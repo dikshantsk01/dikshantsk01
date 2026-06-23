@@ -1,4 +1,4 @@
-# Hi there, I'm Dikshant Suresh Khobragade 👋
+# Hi there, I'm Dikshant Khobragade 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Competitive+Programmer;IIT+Patna+Dual+Degree;Hackathon+Enthusiast)](https://git.io/typing-svg)
 
