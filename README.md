@@ -42,6 +42,8 @@ I am invested in algorithmic problem-solving and participate in weekly contests 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantsk01&layout=compact&theme=radical"/>
 </div>
 
+[![Dikshant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshantsk01&theme=react-dark&bg_color=141321&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-khobragade-1b166727b/)
