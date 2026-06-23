@@ -21,7 +21,7 @@ I am invested in algorithmic problem-solving and participate in weekly contests 
 
 ## 🛠️ Technical Arsenal
 
-*Note: Update the languages below with your primary tools for CP and backend logic (e.g., C++, Python, Java).*
+<!-- *Note: Update the languages below with your primary tools for CP and backend logic (e.g., C++, Python, Java).* -->
 
 - **Languages:** C/C++, Python, SQL, HTML, CSS, JavaScript
 - **Tools & Cloud Platforms:** Git/GitHub, AWS
