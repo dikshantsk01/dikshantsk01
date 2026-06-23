@@ -38,7 +38,7 @@ I am invested in algorithmic problem-solving and participate in weekly contests 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikshantsk01&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikshantsk01&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantsk01&layout=compact&theme=radical"/>
 </div>
 
