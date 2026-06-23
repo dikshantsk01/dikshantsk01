@@ -44,6 +44,14 @@ I am invested in algorithmic problem-solving and participate in weekly contests 
 
 [![Dikshant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshantsk01&theme=react-dark&bg_color=141321&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dikshantsk01/dikshantsk01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dikshantsk01/dikshantsk01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dikshantsk01/dikshantsk01/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-khobragade-1b166727b/)
