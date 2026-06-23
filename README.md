@@ -7,30 +7,31 @@ I am a Software Developer and Competitive Programmer pursuing an Integrated Dual
 ## 🚀 About Me
 
 - 🎓 **Education:** Integrated B.Tech + M.Tech at the Indian Institute of Technology (IIT) Patna.
-- 💼 **Experience:** Software Development Intern at Bluestock Fintech.
-- 🏆 **Hackathons:** Experienced competitor (Adobe India Hackathon, Google Cloud Gen AI Exchange, GrabHack 2.0, iDEA 2.0).
-- ⚡ **Current Focus:** Advanced Data Structures, Algorithms, IT Automation, and Cloud Infrastructure.
+- 💼 **Experience:** Data Analyst Intern at Judix Technologies.
+- 🏆 **Hackathons:** Experienced competitor (Adobe India Hackathon, Google Cloud Gen AI Exchange, SuperHack by AWS, GrabHack 2.0, iDEA 2.0).
+- ⚡ **Current Focus:** Advanced Data Structures, Algorithms, Machine Learning, Deep Learning, Artificial Intelligence, and Full-Stack Development.
 - 🤝 **Collaboration:** Always open to collaborating on system architecture, algorithmic challenges, or weekend hackathons.
 
 ## 📊 Competitive Programming
 
 I am deeply invested in algorithmic problem-solving and participate in weekly contests to continually refine my logic and optimization skills.
 
-- **Codeforces:** Peak Rating 1197
-- **LeetCode:** Active participant in weekly contests.
+- **Codeforces:** Pupil - Peak rating 1208
+- **LeetCode:** Active participant in daily challenges and weekly contests.
 
 ## 🛠️ Technical Arsenal
 
 *Note: Update the languages below with your primary tools for CP and backend logic (e.g., C++, Python, Java).*
 
-- **Languages:** C/C++, Python, SQL
-- **Cloud & Infrastructure:** AWS, Google Cloud
-- **Domains:** IT Automation, Generative AI Integration, Data Structures & Algorithms
+- **Languages:** C/C++, Python, SQL, HTML, CSS, JavaScript
+- **Tools & Cloud Platforms:** Git/GitHub, AWS
+- **Technical Coursework:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN)
 
 ## 🏆 Highlighted Experience & Hackathons
 
-- **SuperHack 2025:** Served as a technical advisor for an AWS-powered IT automation project (Guardian Agent), managing server infrastructure and chatbot integration.
-- **Google Cloud Arcade:** Enrolled in the Cohort 2 Facilitator Program, focusing on cloud technical skill-building.
+- **Goldman Sachs India Hackathon (GSIH):** Secured AIR 633 among participants from top engineering colleges across India. 
+- **SuperHack 2025:** Served as a technical member for an AWS-powered IT automation project (Guardian Agent), managing server infrastructure and chatbot integration.
+- **Google Cloud Arcade:** Enrolled in the Cohort 2 Facilitator Program 2025, focusing on cloud technical skill-building.
 - **Leadership:** Led Team *CreativeChaos* at the iDEA 2.0 Fintech Hackathon and L’Oréal Brandstorm.
 - **Corporate Competitions:** Competed in the Tata Elxsi competition and Dentsu AIgnite track.
 
@@ -48,6 +49,6 @@ I am deeply invested in algorithmic problem-solving and participate in weekly co
 [<img align="left" alt="Dikshant | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 <br />
 
-[linkedin]: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-[codeforces]: https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME
-[leetcode]: https://leetcode.com/YOUR_LEETCODE_USERNAME
+[linkedin]: https://www.linkedin.com/in/dikshant-khobragade-1b166727b/
+[codeforces]: https://codeforces.com/profile/dikshantsk_01
+[leetcode]: https://leetcode.com/dikshantsk01
