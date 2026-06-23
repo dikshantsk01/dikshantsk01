@@ -14,7 +14,7 @@ I am a Software Developer and Competitive Programmer pursuing an Integrated Dual
 
 ## 📊 Competitive Programming
 
-I am deeply invested in algorithmic problem-solving and participate in weekly contests to continually refine my logic and optimization skills.
+I am invested in algorithmic problem-solving and participate in weekly contests to continually refine my logic and optimization skills.
 
 - **Codeforces:** Pupil - Peak rating 1208
 - **LeetCode:** Active participant in daily challenges and weekly contests.
@@ -30,7 +30,7 @@ I am deeply invested in algorithmic problem-solving and participate in weekly co
 ## 🏆 Highlighted Experience & Hackathons
 
 - **Goldman Sachs India Hackathon (GSIH):** Secured AIR 633 among participants from top engineering colleges across India. 
-- **SuperHack 2025:** Served as a technical member for an AWS-powered IT automation project (Guardian Agent), managing server infrastructure and chatbot integration.
+- **SuperHack 2025:** Technical team member for Guardian Agent, managing AWS infrastructure and chatbot integration.
 - **Google Cloud Arcade:** Enrolled in the Cohort 2 Facilitator Program 2025, focusing on cloud technical skill-building.
 - **Leadership:** Led Team *CreativeChaos* at the iDEA 2.0 Fintech Hackathon and L’Oréal Brandstorm.
 - **Corporate Competitions:** Competed in the Tata Elxsi competition and Dentsu AIgnite track.
@@ -38,8 +38,8 @@ I am deeply invested in algorithmic problem-solving and participate in weekly co
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikshantsk01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantsk01&layout=compact&theme=radical"/>
 </div>
 
 ## 📫 Let's Connect
