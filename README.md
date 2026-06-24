@@ -8,7 +8,6 @@ I am a Software Developer and Competitive Programmer pursuing an Integrated Dual
 
 - 🎓 **Education:** Integrated B.Tech + M.Tech at the Indian Institute of Technology (IIT) Patna.
 - 💼 **Experience:** Data Analyst Intern at Judix Technologies.
-- 🏆 **Hackathons:** Experienced competitor (Adobe India Hackathon, Google Cloud Gen AI Exchange, SuperHack by AWS, iDEA 2.0).
 - ⚡ **Current Focus:** Advanced Data Structures, Algorithms, Full-Stack Development, Machine Learning and AI.
 - 🤝 **Collaboration:** Always open to collaborating on system architecture, algorithmic challenges, or weekend hackathons.
 
