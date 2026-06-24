@@ -16,7 +16,7 @@ I am a Software Developer and Competitive Programmer pursuing an Integrated Dual
 I am invested in algorithmic problem-solving and participate in weekly contests to continually refine my logic and optimization skills.
 
 - **Codeforces:** Pupil - Peak rating 1208 | Solved 200+ Problems.
-- **LeetCode:** Active participant in daily challenges and weekly contests | Solved 75+ Problems.
+- **LeetCode:** Active participant in daily challenges and weekly contests | Solved 80+ Problems.
 
 ## 🛠️ Technical Arsenal
 
