@@ -31,16 +31,17 @@ I am invested in algorithmic problem-solving and participate in weekly contests 
 - **Amazon MLSS'26:** Selected in the top 3,000 out of 1.34 Lakh+ applicants nationwide for the Machine Learning Summer School.
 - **Goldman Sachs India Hackathon (GSIH):** Secured AIR 633 among participants from top engineering colleges across India. 
 - **SuperHack 2025:** Technical team member for Guardian Agent, managing AWS infrastructure and chatbot integration.
-- **Corporate Competitions:** Competed in the Tata Elxsi competition and Dentsu AIgnite track.
-
+  
 ## 📈 GitHub Activity
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dikshantsk01&show_icons=true&theme=radical&hide_rank=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantsk01&layout=compact&theme=radical"/>
-</div>
+<!-- <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dikshantsk01&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantsk01&layout=compact&theme=radical" alt="Top Languages" />
+</p> -->
 
-[![Dikshant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshantsk01&theme=react-dark&bg_color=141321&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshantsk01&theme=react-dark&bg_color=141321&hide_border=true" alt="Dikshant's GitHub Activity Graph" />
+</p> 
 
 <div align="center">
   <picture>
