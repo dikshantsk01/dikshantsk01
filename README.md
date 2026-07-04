@@ -28,10 +28,9 @@ I am invested in algorithmic problem-solving and participate in weekly contests 
 
 ## 🏆 Highlighted Experience & Hackathons
 
+- **Amazon MLSS'26:** Selected in the top 3,000 out of 1.34 Lakh+ applicants nationwide for the Machine Learning Summer School.
 - **Goldman Sachs India Hackathon (GSIH):** Secured AIR 633 among participants from top engineering colleges across India. 
 - **SuperHack 2025:** Technical team member for Guardian Agent, managing AWS infrastructure and chatbot integration.
-- **Google Cloud Arcade:** Enrolled in the Cohort 2 Facilitator Program 2025, focusing on cloud technical skill-building.
-- **Leadership:** Led Team *CreativeChaos* at the iDEA 2.0 Fintech Hackathon and L’Oréal Brandstorm.
 - **Corporate Competitions:** Competed in the Tata Elxsi competition and Dentsu AIgnite track.
 
 ## 📈 GitHub Activity
