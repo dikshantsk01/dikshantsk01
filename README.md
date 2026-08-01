@@ -30,7 +30,7 @@ I am invested in algorithmic problem-solving and participate in weekly contests 
 ## 🏆 Highlighted Experience & Hackathons
 
 - **Amazon MLSS'26:** Selected in the top 3,000 out of 1.34 Lakh+ applicants nationwide for the Machine Learning Summer School.
-- **Goldman Sachs India Hackathon (GSIH):** Secured AIR 633 among participants from top engineering colleges across India. 
+- **Goldman Sachs India Hackathon (GSIH):** Secured AIR 663 among participants from top engineering colleges across India. 
 - **SuperHack 2025:** Technical team member for Guardian Agent, managing AWS infrastructure and chatbot integration.
   
 ## 📈 GitHub Activity
