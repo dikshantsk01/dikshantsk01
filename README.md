@@ -48,7 +48,7 @@ Self-initiated, solo-built full-stack application with a RESTful backend of 9 au
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshantsk01&theme=react-dark&bg_color=141321&hide_border=true" alt="Dikshant's GitHub Activity Graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=dikshantsk01&theme=react-dark&bg_color=141321&hide_border=true" alt="Dikshant's GitHub Activity Graph" />
 </p>
 
 <div align="center">
