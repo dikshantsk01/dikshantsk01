@@ -25,8 +25,8 @@ Self-initiated, solo-built full-stack application with a RESTful backend of 9 au
 
 500+ algorithmic problems solved across platforms, with regular participation in rated contests.
 
-- **Codeforces:** Pupil | Peak Rating 1287 | [Profile](https://codeforces.com/profile/dikshantsk_01) | 40+ Contests Participated
-- **CodeChef:** 3★ | Peak Rating 1610 | [Profile](https://www.codechef.com/users/dikshantsk01) | 20+ Contests Participated
+- **Codeforces:** Pupil | Peak Rating 1287 | 40+ Contests Participated | [Profile](https://codeforces.com/profile/dikshantsk_01)
+- **CodeChef:** 3★ | Peak Rating 1610 | 20+ Contests Participated | [Profile](https://www.codechef.com/users/dikshantsk01)
 - **LeetCode:** Active daily/weekly contest participant | 150+ Problems Solved | [Profile](https://leetcode.com/u/dikshantsk01/)
 
 ## 🏆 Highlighted Experience & Hackathons
